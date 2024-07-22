@@ -1,0 +1,7 @@
+.vscode
+build
+doc
+temp
+.Thumbs.db
+.DS_Store
+*.o
